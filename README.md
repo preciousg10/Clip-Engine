@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?logo=python&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F55036?logo=groq&logoColor=white)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 > A two-part short-form content workflow: find the campaigns worth clipping for, then produce the clips.
 
@@ -58,4 +57,4 @@ Scout surfaces which campaigns are worth the effort; Clipper produces the clips 
 
 ## License
 
-Released under the [MIT License](LICENSE).
+© 2026 Precious G. All rights reserved. This repository is public for viewing and portfolio purposes only; please do not copy, reuse, or redistribute the code without permission.
