@@ -1,0 +1,27 @@
+# Logged-in browser profile — NEVER commit this (it contains your session).
+whop_profile/
+
+# Runtime outputs
+campaigns.json
+campaigns_summary.md
+state.json
+errors.log
+probe_*.png
+probe_*.html
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- added on publish ---
+.env
+.env.*
+!.env.example
+!**/.env.example
+*.key
+node_modules
+dist
+.venv
+__pycache__

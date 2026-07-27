@@ -1,0 +1,43 @@
+# Campaign working data (footage is large; assets/outputs are per-campaign)
+campaign/footage/
+campaign/assets/
+campaign/docs/
+campaign/other/
+campaign/transcripts/
+campaign/moments.json
+campaign/selected.json
+campaign/captions.json
+campaign/manifest.json
+campaign/brief.md
+campaign/rules.json
+campaign/knowledge.md
+
+# Pipeline outputs + state
+drafts/
+state.json
+
+# Self-test scratch
+selftest_work/
+
+# yt-dlp scratch + cache (video/audio mux temp)
+.ytdlp/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+
+# --- added on publish ---
+.env
+.env.*
+!.env.example
+!**/.env.example
+*.key
+node_modules
+dist
+.venv
+__pycache__
